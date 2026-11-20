@@ -35,6 +35,7 @@ The following chapters will explain the tsfresh package in detail:
    text/large_data
    text/tsfresh_on_a_cluster
    text/forecasting
+   text/label_driven_generations
    text/faq
    api/modules
    authors
